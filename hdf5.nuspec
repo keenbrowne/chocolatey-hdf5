@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>hdf5</id>
+    <version>1.8.14</version>
+    <title>HDF5</title>
+    <authors>The HDF Group</authors>
+    <owners>keen</owners>
+    <licenseUrl>http://www.hdfgroup.org/ftp/HDF5/current/src/unpacked/COPYING</licenseUrl>
+    <projectUrl>http://www.hdfgroup.org/HDF5</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>HDF5 is a completely new Hierarchical Data Format product consisting of a data format specification and a supporting library implementation.</description>
+    <summary>HDF5 headers and dlls compiled with Visual Studio 2013 for 32bit and 64bit windows.</summary>
+    <releaseNotes>http://www.hdfgroup.org/ftp/HDF5/current/src/unpacked/release_docs/RELEASE.txt</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>hdf hdf5</tags>
+  </metadata>
+</package>
