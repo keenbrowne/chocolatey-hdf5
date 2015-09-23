@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>hdf5-msvc-12</id>
-    <version>1.8.14</version>
+    <id>bonsai.hdf5.msvc2013</id>
+    <version>1.8.15</version>
     <title>HDF5</title>
     <authors>The HDF Group</authors>
     <owners>keen</owners>
